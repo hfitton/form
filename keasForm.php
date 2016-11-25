@@ -191,6 +191,33 @@
                                                       <label for =q142y>Yes:</label> <input type=radio name=p2other id=q142y value=yes>
                                                         <label for =q142n>No:</label> <input type=radio name=p2other id=q142n value=No></span></p>
 
+<div class=divider>Privacy Act</div>
+
+<p>In compliance of the Privacy Act 1993 the following is brought to your attention.<br>
+a.	The Scout Association of New Zealand and this Scout Group collect personal information.<br>
+b.	The information is collected to: -<br>
+i)	enable enrolment in SCOUTS New Zealand<br>
+ii)	make arrangements for your son’s and daughter’s participation, safety and welfare<br>
+iii)	allow communication with you, your son and daughter and your family<br>
+iv)	allow for the planning and delivery of effective services through The Scout Association of New Zealand<br>
+c.	The information is being collected by this Group for SCOUTS New Zealand and will be used by the organisers and managers.
+ It will form part of a directory of Scout personnel and membership records and is available to your Group,
+ Zone and Region. It may be used to inform you about products and services offered or recommended by SCOUTS
+  New Zealand, and opportunities to support SCOUTS New Zealand’s work.<br>
+d.	The information will be held securely, stored electronically and used for SCOUTS New Zealand purposes only.<br>
+e.	You have rights of access to, and correction of, this information subject to the provisions of the Privacy Act 1993.<br>
+
+<div class=divider>Consent to take part in SCOUTS</div>
+
+<p>I agree to my son or daughter becoming part of SCOUTS New Zealand at this Scout Group and fully participating in its adventurous activities.<br>
+I agree that photographs taken during the course of activities and events are the property of SCOUTS New Zealand and may be used
+ in publicity and marketing of SCOUTS New Zealand.<br>
+I agree to share in the organising and running of this Scout Group.</p>
+
+ <span style="text-align:center;">
+   <label for =consenty>Yes:</label> <input type=radio name=consent id=consenty value=yes>
+  <label for =consentn>No:</label> <input type=radio name=consent id=consentn value=No></span></p>
+
  <button class="button" type='submit'>Submit</button>
  </form></div>
 
